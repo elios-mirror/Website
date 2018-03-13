@@ -396,7 +396,7 @@ iframe {
 }
 
 .navbar-fixed-top.opaque {
-    background-color: rgba(34, 34, 34, 0.95) !important;
+    background-color: rgba(34, 34, 34, 0.97) !important;
     padding: 10px 0;
     transition: all 1s ease-in-out 0s;
 }
