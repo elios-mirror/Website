@@ -109,12 +109,10 @@
                     <div class="luna-headings-dark  wow fadeInLeft" data-wow-delay="0.60s"
                          style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
 
-                        <h2>About</h2>
+                        <h3>à propos</h3>
 
-                        <h3>Find Unique Features</h3>
-
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quia magni
-                            dolores eos qui ratione sequi nesciunt.</p>
+                        <p>Elios Mirror est un miroir connecté vous facilitant la vie au quotidien. Il propose une
+                            infinité de fonctionnalités.</p>
 
                         <div class="luna-aboutbox">
 
@@ -122,25 +120,11 @@
 
                             <div class="luna-aboutbox-text">
 
-                                <h4>Quality Design</h4>
+                                <h4>Sobre et Design</h4>
 
-                                <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis
-                                    autem velis repreherit eos qui ratione sequi nesciunt.</p>
-
-                            </div>
-
-                        </div>
-
-                        <div class="luna-aboutbox">
-
-                            <img src="images/icon2.png" alt="icon">
-
-                            <div class="luna-aboutbox-text">
-
-                                <h4>Premium Security</h4>
-
-                                <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis
-                                    autem velis repreherit eos qui ratione sequi nesciunt.</p>
+                                <p>Elios Mirror est un mirroir pensé pour s'intégrer parfaitement dans votre
+                                    habitation. Par son verre sans tain de qualité et son cadre, il ne passera pas
+                                    innaperçu.</p>
 
                             </div>
 
@@ -152,10 +136,27 @@
 
                             <div class="luna-aboutbox-text">
 
-                                <h4>Fully Customizable</h4>
+                                <h4>Entièrement personnalisable</h4>
 
-                                <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis
-                                    autem velis repreherit eos qui ratione sequi nesciunt.</p>
+                                <p>Modifiez et re-modifiez votre miroir à votre gout. Une interface simple vous
+                                    permettra de personnaliser entièrement votre miroir pour qu'il soit unique et selon
+                                    vos gouts.</p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="luna-aboutbox">
+
+                            <img src="images/icon2.png" alt="icon">
+
+                            <div class="luna-aboutbox-text">
+
+                                <h4>Entièrement sécurisé/h4>
+
+                                    <p>Elios Mirror est étanche, il pourra donc parfaitement s'intégrer dans votre salle
+                                        de bain. Il est également sécurisé informatiquement, toutes les données qui
+                                        transites sont chiffrés.</p>
 
                             </div>
 
@@ -198,9 +199,7 @@
 
                     <div class="luna-headings-dark-center text-center">
 
-                        <h2>features</h2>
-
-                        <h3>More special features</h3>
+                        <h3>Les features</h3>
 
                         <p>Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quia<br> magni
                             dolores eos qui ratione sequi nesciunt. Neque et quis autem.</p>
@@ -427,9 +426,7 @@
 
                     <div class="luna-headings-dark-center text-center">
 
-                        <h2>Gallery</h2>
-
-                        <h3>Luna in screenshots</h3>
+                        <h3>Médias</h3>
 
                     </div>
 
