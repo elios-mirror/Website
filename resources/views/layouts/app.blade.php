@@ -37,9 +37,9 @@
 <body>
 @yield('content')
 <!-- Scripts -->
-<script src="js/jquery-1.11.3.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="owlcarousel/owl.carousel.min.js"></script>
+<script src="{{ asset("js/jquery-1.11.3.min.js") }}"></script>
+<script src="{{ asset("js/bootstrap.js") }}"></script>
+<script src="{{ asset("owlcarousel/owl.carousel.min.js") }}"></script>
 <script>
     $('#owl-one').owlCarousel({
         center: true,
@@ -65,41 +65,14 @@
                 loop: true
             }
         }
-    })
-
-
-    $('#owl-two').owlCarousel({
-        center: true,
-        autoplay: true,
-        smartSpeed: 500,
-        loop: true,
-        margin: 25,
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-                nav: false
-            },
-            600: {
-                items: 1,
-                nav: false,
-                navText: ["<i class='fa fa-quote-left'></i>", "<i class='fa fa-quote-right'></i>"]
-            },
-            1000: {
-                items: 1,
-                nav: false,
-                navText: ["<i class='fa fa-quote-left'></i>", "<i class='fa fa-quote-right'></i>"],
-                loop: true
-            }
-        }
-    })
+    });
 </script>
-<script src="js/jquery.scrollTo-min.js"></script>
-<script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/jquery.nav.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/countdown.js"></script>
-<script src="js/custom.js"></script>
-<script src="js/plugins.js"></script>
+<script src="{{ asset("js/jquery.scrollTo-min.js") }}"></script>
+<script src="{{ asset("js/jquery.magnific-popup.min.js") }}"></script>
+<script src="{{ asset("js/jquery.nav.js") }}"></script>
+<script src="{{ asset("js/wow.js") }}"></script>
+<script src="{{ asset("js/countdown.js") }}"></script>
+<script src="{{ asset("js/custom.js") }}"></script>
+<script src="{{ asset("js/plugins.js") }}"></script>
 </body>
 </html>

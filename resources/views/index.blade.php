@@ -32,11 +32,11 @@
 
                 <div id="navbar-collapse-02" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#home_wrapper">Home</a></li>
-                        <li><a href="#about">About</a></li>
+                        <li><a href="#home_wrapper">Accueil</a></li>
+                        <li><a href="#about">À propos</a></li>
                         <li><a href="#features">Features</a></li>
-                        <li><a href="#gallery">Gallery</a></li>
-                        <li><a href="#pricing">Pricing</a></li>
+                        <li><a href="#gallery">Gallerie</a></li>
+                        <li><a href="#pricing">Offres</a></li>
                         <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -184,516 +184,8 @@
     </section>
     <!--end section white -->
 
-    <!--begin section dark-->
-    <section class="section-dark-xl" id="features">
-
-        <!--begin container -->
-        <div class="container">
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col md 12 -->
-                <div class="col-md-12 text-center">
-
-                    <div class="luna-headings-light">
-
-                        <h2>Features</h2>
-
-                        <h3>App Main Features</h3>
-
-                    </div>
-
-                </div>
-                <!--end col md 12 -->
-
-            </div>
-            <!--end row -->
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s"
-                         style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-apple gradient"></i>
-                        <i class="fa fa-android gradient"></i>
-                        <h3>Compatibility</h3>
-                        <p>iOS, Android sed quia magni dolores eos qui ratione ipsam voluptatem quia voluptas sit
-                            asperna netsum lorisum eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s"
-                         style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-battery-3 gradient"></i>
-                        <h3>Battery Saver</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis autem velis
-                            repreherit eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s"
-                         style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-wifi gradient"></i>
-                        <h3>Conectivity</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt. Neque et quis autem
-                            velis reprehenit eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-            </div>
-            <!--end row -->
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.25s"
-                         style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-bell-o gradient"></i>
-                        <h3>Notifications</h3>
-                        <p>iOS, Android sed quia magni dolores eos qui ratione ipsam voluptatem quia voluptas sit
-                            asperna netsum lorisum eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.50s"
-                         style="visibility: visible; animation-delay: 0.50s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-rocket gradient"></i>
-                        <h3>Launch Speed</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui rationsequi nesciunt. Neque et quis autem velis
-                            repreherit eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-                <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-featbox text-center wow fadeInRight" data-wow-delay="0.75s"
-                         style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInRight;">
-
-                        <i class="fa fa-rss gradient"></i>
-                        <h3>Sensors</h3>
-                        <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt. Neque et quis autem
-                            velis reprehenit eos qui ratione sequi nesciunt.</p>
-
-                    </div>
-
-                </div>
-                <!--end col md 4 -->
-
-            </div>
-            <!--end row -->
-
-        </div>
-        <!--end container -->
-
-    </section>
-    <!--section section dark -->
-
-    <!--section section white-->
-    <section class="section-white">
-
-        <!--begin container -->
-        <div class="container">
-
-            <!--begin row -->
-            <div class="row text-center">
-
-                <!--begin col md 12 -->
-                <div class="col-md-12 text center">
-
-                    <div class="luna-headings-dark">
-
-                        <img src="images/luna-about3.png" alt="about-image" class="luna-about-image wow fadeInUp"
-                             data-wow-delay="0.75s"
-                             style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInUp;">
-
-                        <h2>Download</h2>
-
-                        <h3>Get Yourself Luna App</h3>
-
-                        <div class="luna-download margin-top-40">
-
-                            <a href="#"><img src="images/google-badge.png" alt="google"></a>
-
-                            <a href="#"><img src="images/apple-badge.png" alt="apple"></a>
-
-                            <a href="#"><img src="images/windows-badge.png" alt="windows"></a>
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <!--end col md 12 -->
-
-            </div>
-            <!--end row -->
-
-        </div>
-        <!--end container -->
-
-    </section>
-    <!--end section white -->
-
-    <!--begin section-image-->
-    <section class="section-image">
-
-        <!--begin container -->
-        <div class="container">
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col md 4 -->
-                <div class="col-md-4">
-
-                </div>
-                <!--end col md 4 -->
-
-                <!--begin col md 8 -->
-                <div class="col-md-8 padding-left-60">
-
-                    <div class="luna-headings-light text-center">
-
-                        <h2 class="white-text">Process</h2>
-
-                        <h3 class="white-text">How it works?</h3>
-
-                        <div class="tabs margin-top-40">
-
-                            <nav class="tabs-nav">
-
-                                <ul>
-                                    <li data-tab="1" class="tab-item-luna"><h4>1. Choose plan</h4></li>
-                                    <li data-tab="2" class="tab-item-luna"><h4>2. Download</h4></li>
-                                    <li data-tab="3" class="tab-item-luna"><h4>3. Customize</h4></li>
-                                    <li data-tab="4" class="tab-item-luna"><h4>4. Enjoy</h4></li>
-                                </ul>
-
-                            </nav>
-
-                            <div class="tab-container">
-
-                                <div class="tab-content" data-tab="1">
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-                                        Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.</p>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam.</p>
-
-                                    <ul>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                    </ul>
-
-                                    <a href="#"><i class="fa fa-long-arrow-right">
-                                        </i> Payment plans and details</a>
-
-                                </div>
-
-                                <div class="tab-content" data-tab="2">
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-                                        Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.</p>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam.</p>
-
-                                    <ul>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                    </ul>
-
-                                    <a href="#"><i class="fa fa-download">
-                                        </i> Download app</a>
-
-                                </div>
-
-                                <div class="tab-content" data-tab="3">
-
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-                                        Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.</p>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam.</p>
-
-                                    <ul>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                    </ul>
-
-                                    <a href="#"><i class="fa fa-cog">
-                                        </i> View Tutorial</a>
-
-
-                                </div>
-
-                                <div class="tab-content" data-tab="4">
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam.</p>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
-                                        labo et dolore magna aliqua. Ut enim ad minim veniam.</p>
-
-                                    <ul>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Consectetur adipisci, sed do eiusmod tempor
-                                            incido.
-                                        </li>
-                                        <li><i class="fa fa-check"></i>Nemo enim ipsam voluptatem quia voluptas sit
-                                            asperna.
-                                        </li>
-                                    </ul>
-
-                                    <a href="#"><i class="fa fa-star">
-                                        </i> Rate Us</a>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-                <!--end col md 8 -->
-
-            </div>
-            <!--end row -->
-        </div>
-        <!--end container -->
-
-    </section>
-    <!--end section image -->
-
-    <!--begin section-white-->
-    <section class="section-white" id="gallery">
-
-        <!--begin container -->
-        <div class="container-fluid">
-
-            <!--begin row -->
-            <div class="row">
-
-                <!--begin col md 12 -->
-                <div class="col-md-12">
-
-                    <div class="luna-headings-dark-center text-center">
-
-                        <h2>Gallery</h2>
-
-                        <h3>Luna in screenshots</h3>
-
-                    </div>
-
-                </div>
-                <!--end col md 12 -->
-
-                <!--begin col md 12 -->
-                <div class="col-md-12">
-
-                    <!--begin owl carousel -->
-                    <div id="owl-one" class="owl-carousel owl-theme">
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                        <div>
-                            <!--begin popup-gallery-->
-                            <div class="popup-gallery">
-                                <a class="popup2" href="http://placehold.it/300x522">
-                                    <img src="http://placehold.it/300x522" alt="gallery-image">
-                                    <span class="eye-wrapper">
-		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
-		                            </span>
-                                </a>
-                            </div>
-                            <!--end popup-gallery-->
-                        </div>
-
-                    </div>
-                    <!--end owl carousel -->
-
-                </div>
-                <!--end col md 12 -->
-
-            </div>
-            <!--end row -->
-
-        </div>
-        <!--end container -->
-
-    </section>
-    <!--end section white -->
-
     <!--begin section-grey-->
-    <section class="section-grey">
+    <section class="section-grey" id="features">
 
         <!--begin container -->
         <div class="container">
@@ -921,71 +413,144 @@
     </section>
     <!--end section grey-->
 
-    <!--begin section-image-->
-    <section class="section-image2">
+    <!--begin section-white-->
+    <section class="section-white" id="gallery">
 
         <!--begin container -->
-        <div class="container">
+        <div class="container-fluid">
 
             <!--begin row -->
             <div class="row">
 
-                <!--begin col md 10 -->
-                <div class="col-md-10 col-md-offset-1">
+                <!--begin col md 12 -->
+                <div class="col-md-12">
+
+                    <div class="luna-headings-dark-center text-center">
+
+                        <h2>Gallery</h2>
+
+                        <h3>Luna in screenshots</h3>
+
+                    </div>
+
+                </div>
+                <!--end col md 12 -->
+
+                <!--begin col md 12 -->
+                <div class="col-md-12">
 
                     <!--begin owl carousel -->
-                    <div id="owl-two" class="owl-carousel owl-theme owl-two">
+                    <div id="owl-one" class="owl-carousel owl-theme">
 
-                        <div class="luna-reviewbox text-center">
-
-                            <div class="luna-reviewbox-img"><img src="http://placehold.it/200x200" alt="luna-image">
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
                             </div>
-                            <h4>John Doe - <span class="">  Company Name</span></h4>
-
-
-                            <p>"Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labo
-                                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. Nemo enim
-                                ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.Nemo enim ipsam
-                                voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quiamagni dolores eos qui
-                                ratione."</p>
-
+                            <!--end popup-gallery-->
                         </div>
 
-                        <div class="luna-reviewbox text-center">
-
-                            <div class="luna-reviewbox-img"><img src="http://placehold.it/200x200" alt="luna-image">
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
                             </div>
-                            <h4>Sam Smith - <span class="">  Company Name</span></h4>
-
-
-                            <p>"Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labo
-                                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. Nemo enim
-                                ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.Nemo enim ipsam
-                                voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quiamagni dolores eos qui
-                                ratione."</p>
-
+                            <!--end popup-gallery-->
                         </div>
 
-                        <div class="luna-reviewbox text-center">
-
-                            <div class="luna-reviewbox-img"><img src="http://placehold.it/200x200" alt="luna-image">
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
                             </div>
-                            <h4>Sarah Miller - <span class="">  Company Name</span></h4>
+                            <!--end popup-gallery-->
+                        </div>
 
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
+                            </div>
+                            <!--end popup-gallery-->
+                        </div>
 
-                            <p>"Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labo
-                                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. Nemo enim
-                                ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit.Nemo enim ipsam
-                                voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quiamagni dolores eos qui
-                                ratione."</p>
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
+                            </div>
+                            <!--end popup-gallery-->
+                        </div>
 
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
+                            </div>
+                            <!--end popup-gallery-->
+                        </div>
+
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
+                            </div>
+                            <!--end popup-gallery-->
+                        </div>
+
+                        <div>
+                            <!--begin popup-gallery-->
+                            <div class="popup-gallery">
+                                <a class="popup2" href="http://placehold.it/300x522">
+                                    <img src="http://placehold.it/300x522" alt="gallery-image">
+                                    <span class="eye-wrapper">
+		                            	<i class="fa fa-search-plus eye-icon" style="font-size: 38px;"></i>
+		                            </span>
+                                </a>
+                            </div>
+                            <!--end popup-gallery-->
                         </div>
 
                     </div>
                     <!--end owl carousel -->
 
                 </div>
-                <!--end col md 10-->
+                <!--end col md 12 -->
 
             </div>
             <!--end row -->
@@ -995,9 +560,8 @@
 
     </section>
     <!--end section white -->
-
     <!--begin section-white-->
-    <section class="section-white" id="pricing">
+    <section class="section-grey" id="pricing">
 
         <!--begin container -->
         <div class="container">
