@@ -171,7 +171,7 @@
                 <div class="col-md-6 text-center luna-imagewrap1  wow fadeInRight" data-wow-delay="0.60s"
                      style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInRight;">
 
-                    <img src="images/luna-about2.png" alt="about-image" class="width-100">
+                    <img src="images/mirror.png" alt="about-image" style="margin-top: 10rem">
 
                 </div>
                 <!--end col md 6 -->
@@ -224,10 +224,10 @@
 
                         <div class="luna-featbox2-text">
 
-                            <h3>Modern Design</h3>
+                            <h3>Design Moderne</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Avec son verre sans tain et un écran de haute qualité il ne passera pas innéperçu chez
+                                vous.</p>
 
                         </div>
 
@@ -245,10 +245,10 @@
 
                         <div class="luna-featbox2-text">
 
-                            <h3>Prefences</h3>
+                            <h3>Personnalisable</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Une interface entièrement personnalisable selon vos gouts pour s'intégrer parfaitement
+                                chez vous.</p>
 
                         </div>
 
@@ -268,8 +268,7 @@
 
                             <h3>User Friendly</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Une interface simple d'utilisation pour accèder à l'essentiel des informations.</p>
 
                         </div>
 
@@ -281,16 +280,16 @@
                         <div class="luna-icon-wrap">
 
                             <div class="luna-featbox2-icon">
-                                <i class="fa fa-bell"></i>
+                                <i class="fa fa-cloud"></i>
                             </div>
                         </div>
 
                         <div class="luna-featbox2-text">
 
-                            <h3>Notifications</h3>
+                            <h3>Cloud</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Un cloud sécurisé pour enregistrer toutes vos préférences, vos image, vidéos et bien plus
+                                encore.</p>
 
                         </div>
 
@@ -304,9 +303,9 @@
 
                     <div class="luna-imagewrap2 text-center">
 
-                        <img src="images/luna-about4.png" alt="about-image" class="width-100 wow fadeInUp"
+                        <img src="images/mirror.png" alt="about-image" class=" wow fadeInUp"
                              data-wow-delay="0.85s"
-                             style="visibility: visible; animation-delay: 0.85s; animation-name: fadeInUp;">
+                             style="visibility: visible; animation-delay: 0.85s; animation-name: fadeInUp; margin-top: 10rem">
 
                     </div>
 
@@ -314,7 +313,7 @@
                 <!--end col md 4 -->
 
                 <!--begin col md 4 -->
-                <div class="col-md-4">
+                <div class="col-md-4 padding-top-40">
 
                     <div class="luna-featbox3 wow fadeInRight" data-wow-delay="0.25s"
                          style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
@@ -322,16 +321,16 @@
                         <div class="luna-icon-wrap">
 
                             <div class="luna-featbox3-icon">
-                                <i class="fa fa-globe"></i>
+                                <i class="fa fa-download"></i>
                             </div>
                         </div>
 
                         <div class="luna-featbox3-text">
 
-                            <h3>Accesability</h3>
+                            <h3>Store d'applications</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Accédez à vos applications préféré depuis votre miroir. Installez en de nouvelles
+                                permettant d'utiliser les fonctionnalités du miroir.</p>
 
                         </div>
 
@@ -349,10 +348,9 @@
 
                         <div class="luna-featbox3-text">
 
-                            <h3>Battery Saver</h3>
+                            <h3>Ecologique</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Elios mirror consomme très peu d'énergie, moins de 50 watt par heures.</p>
 
                         </div>
 
@@ -364,16 +362,16 @@
                         <div class="luna-icon-wrap">
 
                             <div class="luna-featbox3-icon">
-                                <i class="fa fa-comments-o"></i>
+                                <i class="fa fa-wifi"></i>
                             </div>
                         </div>
 
                         <div class="luna-featbox3-text">
 
-                            <h3>Chat</h3>
+                            <h3>Controlable à Distance</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Controllable sans toucher le miroir grace au leap motion mais aussi controllable depuis
+                                votre téléphone et votre navigateur.</p>
 
                         </div>
 
@@ -385,16 +383,15 @@
                         <div class="luna-icon-wrap">
 
                             <div class="luna-featbox3-icon">
-                                <i class="fa fa-heart"></i>
+                                <i class="fa fa-lock"></i>
                             </div>
                         </div>
 
                         <div class="luna-featbox3-text">
 
-                            <h3>Great UX</h3>
+                            <h3>Sécurisé</h3>
 
-                            <p>Lorisum fugit, sed quia magni dolores eos qui ratione sequi nesciunt et qui.Lorisum
-                                fugit, sed quia dolor.</p>
+                            <p>Toutes vos données sont chiffrés localement mais également lorsqu'un tranfert s'effectue vers le cloud (AES-256).</p>
 
                         </div>
 
