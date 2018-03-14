@@ -423,7 +423,7 @@
 
                     <div class="luna-headings-dark-center text-center">
 
-                        <h3>Médias</h3>
+                        <h3>Gallerie</h3>
 
                     </div>
 
