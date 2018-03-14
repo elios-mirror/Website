@@ -156,38 +156,6 @@ $(window).on('load', function(){
 	
 });
 
-
-	/* ========================================================== */
-	/*   Popup-Gallery                                            */
-	/* ========================================================== */
-	$('.popup-gallery').find('a.popup1').magnificPopup({
-		type: 'image',
-		gallery: {
-		  enabled:true
-		}
-	}); 
-	
-	$('.popup-gallery').find('a.popup2').magnificPopup({
-		type: 'image',
-		gallery: {
-		  enabled:true
-		}
-	}); 
- 
-	$('.popup-gallery').find('a.popup3').magnificPopup({
-		type: 'image',
-		gallery: {
-		  enabled:true
-		}
-	}); 
- 
-	$('.popup-gallery').find('a.popup4').magnificPopup({
-		type: 'iframe',
-		gallery: {
-		  enabled:false
-		}
-	});  
-
 	/* ========================================================== */
 	/*   Animated-Features                                        */
 	/* ========================================================== */

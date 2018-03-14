@@ -152,11 +152,11 @@
 
                             <div class="luna-aboutbox-text">
 
-                                <h4>Entièrement sécurisé/h4>
+                                <h4>Sécurisé</h4>
 
-                                    <p>Elios Mirror est étanche, il pourra donc parfaitement s'intégrer dans votre salle
-                                        de bain. Il est également sécurisé informatiquement, toutes les données qui
-                                        transites sont chiffrés.</p>
+                                <p>Elios Mirror est étanche, il pourra donc parfaitement s'intégrer dans votre salle
+                                    de bain. Il est également sécurisé informatiquement, toutes les données qui
+                                    transites sont chiffrés.</p>
 
                             </div>
 
@@ -201,8 +201,8 @@
 
                         <h3>Les features</h3>
 
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quia<br> magni
-                            dolores eos qui ratione sequi nesciunt. Neque et quis autem.</p>
+                        <p>Elios Mirror intègre de nombreuses fonctionnalités vous permettant de l'intégrer parfaitement
+                            dans votre quotidien.<br></p>
 
                     </div>
 
@@ -561,7 +561,7 @@
     <section class="section-grey" id="pricing">
 
         <!--begin container -->
-        <div class="container">
+        <div class="container" style="width: 1400px">
 
             <!--begin row -->
             <div class="row">
@@ -571,12 +571,9 @@
 
                     <div class="luna-headings-dark-center text-center">
 
-                        <h2>Pricing</h2>
+                        <h3>Nos offres</h3>
 
-                        <h3>Choose your favorite plan</h3>
-
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit asperna netsum lorisum fugit, sed quia<br> magni
-                            dolores eos qui ratione sequi nesciunt. Neque et quis autem.</p>
+                        <p>Elios vous propose différentes offres pour s'adapter au mieux à vos besoins.</p>
 
                     </div>
 
@@ -591,13 +588,13 @@
 
                         <div class="price-top">
 
-                            <h4>free</h4>
+                            <h4>Communauté <sup>*</sup></h4>
 
                             <p class="price">
 
-                                <span class="currency">$</span>
+                                <span class="currency">€</span>
                                 <span class="number">0,00</span>
-                                <span class="period">First Month</span>
+                                <span class="period">For life</span>
                             </p>
 
                         </div>
@@ -605,15 +602,16 @@
                         <div class="price-bottom">
 
                             <ul>
-                                <li><i class="fa fa-check"></i>Daily Notifications</li>
-                                <li><i class="fa fa-check"></i>Analytics Charts</li>
-                                <li><i class="fa fa-check"></i>Personal Settings</li>
-                                <li><i class="fa fa-close"></i>Premium Features</li>
-                                <li><i class="fa fa-close"></i>More that 1 profile to create</li>
-                                <li class="last"><i class="fa fa-close"></i>Acces to Online Community</li>
+                                <li><i class="fa fa-check"></i>Interface personnalisable</li>
+                                <li><i class="fa fa-check"></i>Store d'applications</li>
+                                <li><i class="fa fa-check"></i>Modules personnalisés</li>
+                                <li><i class="fa fa-close"></i>Verre sans tain haute qualité</li>
+                                <li><i class="fa fa-close"></i>Controle à distance sans toucher le miroir</li>
+                                <li><i class="fa fa-close"></i>Controle téléphone & interface web</li>
+                                <li class="last"><i class="fa fa-close"></i>Accès au cloud</li>
                             </ul>
 
-                            <a href="#" class="btn-price">Get Started</a>
+                            <!-- <a href="#" class="btn-price">Get Started</a> -->
 
                         </div>
 
@@ -630,13 +628,13 @@
 
                         <div class="price-top">
 
-                            <h4>Basic</h4>
+                            <h4>Normal</h4>
 
                             <p class="price">
 
-                                <span class="currency">$</span>
-                                <span class="number">5,99</span>
-                                <span class="period">Monthly</span>
+                                <span class="currency">€</span>
+                                <span class="number">499,90</span>
+                                <span class="period">150x50cm</span>
                             </p>
 
                         </div>
@@ -644,15 +642,16 @@
                         <div class="price-bottom">
 
                             <ul>
-                                <li><i class="fa fa-check"></i>Daily Notifications</li>
-                                <li><i class="fa fa-check"></i>Analytics Charts</li>
-                                <li><i class="fa fa-check"></i>Personal Settings</li>
-                                <li><i class="fa fa-check"></i>Premium Features</li>
-                                <li><i class="fa fa-check"></i>More that 1 profile to create</li>
-                                <li class="last"><i class="fa fa-close"></i>Acces to Online Community</li>
+                                <li><i class="fa fa-check"></i>Interface personnalisable</li>
+                                <li><i class="fa fa-check"></i>Store d'applications</li>
+                                <li><i class="fa fa-check"></i>Modules personnalisés</li>
+                                <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
+                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
+                                <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
+                                <li class="last"><i class="fa fa-check"></i>Accès au cloud (5Go)</li>
                             </ul>
 
-                            <a href="#" class="btn-price">Get Started</a>
+                            <!-- <a href="#" class="btn-price">Get Started</a> -->
 
                         </div>
 
@@ -669,13 +668,13 @@
 
                         <div class="price-top">
 
-                            <h4>Premium</h4>
+                            <h4>Grand</h4>
 
                             <p class="price">
 
-                                <span class="currency">$</span>
-                                <span class="number">20,99</span>
-                                <span class="period">Per Year</span>
+                                <span class="currency">€</span>
+                                <span class="number">699,90</span>
+                                <span class="period">300x60cm</span>
                             </p>
 
                         </div>
@@ -683,15 +682,16 @@
                         <div class="price-bottom">
 
                             <ul>
-                                <li><i class="fa fa-check"></i>Daily Notifications</li>
-                                <li><i class="fa fa-check"></i>Analytics Charts</li>
-                                <li><i class="fa fa-check"></i>Personal Settings</li>
-                                <li><i class="fa fa-check"></i>Premium Features</li>
-                                <li><i class="fa fa-check"></i>More that 1 profile to create</li>
-                                <li class="last"><i class="fa fa-check"></i>Acces to Online Community</li>
+                                <li><i class="fa fa-check"></i>Interface personnalisable</li>
+                                <li><i class="fa fa-check"></i>Store d'applications</li>
+                                <li><i class="fa fa-check"></i>Modules personnalisés</li>
+                                <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
+                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
+                                <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
+                                <li class="last"><i class="fa fa-check"></i>Accès au cloud (20Go)</li>
                             </ul>
 
-                            <a href="#" class="btn-price">Get Started</a>
+                            <!-- <a href="#" class="btn-price">Get Started</a> -->
 
                         </div>
 
@@ -699,6 +699,9 @@
 
 
                 </div>
+                <small class="text-muted"><sup>*</sup> L'offre communauté ne comprend aucun élément physique, il propose
+                    uniquement un OS (système d'exploitation) téléchargeable.
+                </small>
                 <!--end col md 4 -->
 
             </div>
@@ -724,26 +727,20 @@
 
                     <div class="luna-headings-light text-center">
 
-                        <h2>Contact</h2>
-
-                        <h3>Let's get in touch</h3>
+                        <h3>Nous contacter</h3>
 
                     </div>
-
-                    <!--begin success message -->
-                    <p class="contact_success_box" style="display:none;">We received your message and you'll hear from
-                        us soon. Thank You!</p>
                     <!--end success message -->
 
                     <!--begin contact form -->
-                    <form id="contact-form" class="luna-contact text-center" action="php/contact.php" method="post">
+                    <form id="contact-form" class="luna-contact text-center" action="" method="post">
 
-                        <input class="luna-contact-input" required="" name="contact_names" placeholder="Full Name"
+                        <input class="luna-contact-input" required="" name="contact_names" placeholder="Nom et Prénom"
                                type="text">
-                        <input class="luna-contact-input" required="" name="contact_email" placeholder="Email Adress"
+                        <input class="luna-contact-input" required="" name="contact_email" placeholder="Adresse email"
                                type="email">
                         <textarea class="luna-contact-comment" rows="2" cols="20" name="contact_message"
-                                  placeholder="Message for us"></textarea>
+                                  placeholder="Votre message" style="resize: vertical"></textarea>
 
                         <div class="luna-contact-wrapper">
 
@@ -820,7 +817,7 @@
                 <div class="col-md-12">
 
                     <p class="luna-copyright">
-                        <span>Copyright © {{ date("Y") }} Elios.</span>
+                        <span>Copyright © {{ date("Y") }} Elios</span>
                     </p>
 
                 </div>
