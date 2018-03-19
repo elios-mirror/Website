@@ -34,10 +34,10 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#home_wrapper">Accueil</a></li>
                         <li><a href="#about">À propos</a></li>
-                        <li><a href="#features">Features</a></li>
-                        <li><a href="#gallery">Gallerie</a></li>
+                        <li><a href="#features">Fonctionnalités</a></li>
+                        {{--<li><a href="#gallery">Gallerie</a></li>--}}
                         <li><a href="#pricing">Offres</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        {{--<li><a href="#contact">Contact</a></li>--}}
                     </ul>
                 </div>
                 <!--end navbar -->
@@ -76,14 +76,14 @@
                 </div>
                 <!--end col md 12 -->
 
-                <ul class="luna-hero-social">
+                {{--<ul class="luna-hero-social">
 
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                     <li><a href="#"><i class="fa fa-youtube"></i></a></li>
 
-                </ul>
+                </ul>--}}
 
             </div>
             <!--end row -->
@@ -199,7 +199,7 @@
 
                     <div class="luna-headings-dark-center text-center">
 
-                        <h3>Les features</h3>
+                        <h3>Les fonctionnalités</h3>
 
                         <p>Elios Mirror intègre de nombreuses fonctionnalités vous permettant de l'intégrer parfaitement
                             dans votre quotidien.<br></p>
@@ -226,7 +226,7 @@
 
                             <h3>Design Moderne</h3>
 
-                            <p>Avec son verre sans tain et un écran de haute qualité il ne passera pas innéperçu chez
+                            <p>Avec son verre sans tain et un écran de haute qualité il ne passera pas innaperçu chez
                                 vous.</p>
 
                         </div>
@@ -410,7 +410,7 @@
     <!--end section grey-->
 
     <!--begin section-white-->
-    <section class="section-white" id="gallery">
+  {{--  <section class="section-white" id="gallery">
 
         <!--begin container -->
         <div class="container-fluid">
@@ -552,10 +552,10 @@
         </div>
         <!--end container -->
 
-    </section>
+    </section>--}}
     <!--end section white -->
     <!--begin section-white-->
-    <section class="section-grey" id="pricing">
+    <section class="section-white" id="pricing">
 
         <!--begin container -->
         <div class="container" style="width: 1400px">
@@ -711,7 +711,7 @@
     <!--end section white -->
 
     <!--begin section-contact-->
-    <section class="section-dark" id="contact">
+   {{-- <section class="section-dark" id="contact">
 
         <!--begin container -->
         <div class="container">
@@ -757,7 +757,7 @@
         </div>
         <!--end container -->
 
-    </section>
+    </section>--}}
     <!--end section contact-->
 
     <!--begin footer -->
