@@ -578,41 +578,7 @@
                 <!--end col md 12 -->
 
                 <!--begin col md 4 -->
-                <div class="col-md-4 col-sm-4">
-
-                    <div class="luna-pricebox wow fadeInRight" data-wow-delay="0.25s"
-                         style="visibility: visible; animation-delay: 0.25s; animation-name: fadeInRight;">
-
-                        <div class="price-top">
-
-                            <h4>Communauté <sup>*</sup></h4>
-
-                            <p class="price">
-
-                                <span class="currency">€</span>
-                                <span class="number">0,00</span>
-                                <span class="period">For life</span>
-                            </p>
-
-                        </div>
-
-                        <div class="price-bottom">
-
-                            <ul>
-                                <li><i class="fa fa-check"></i>Interface personnalisable</li>
-                                <li><i class="fa fa-check"></i>Store d'applications</li>
-                                <li><i class="fa fa-check"></i>Modules personnalisés</li>
-                                <li><i class="fa fa-close"></i>Verre sans tain haute qualité</li>
-                                <li><i class="fa fa-close"></i>Controle à distance sans toucher le miroir</li>
-                                <li><i class="fa fa-close"></i>Controle téléphone & interface web</li>
-                                <li class="last"><i class="fa fa-close"></i>Accès au cloud</li>
-                            </ul>
-
-                            <!-- <a href="#" class="btn-price">Get Started</a> -->
-
-                        </div>
-
-                    </div>
+                <div class="col-md-2 col-sm-2">
 
                 </div>
                 <!--end col md 4 -->
@@ -631,7 +597,7 @@
 
                                 <span class="currency">€</span>
                                 <span class="number">499,90</span>
-                                <span class="period">150x50cm</span>
+                                <span class="period">65x35cm</span>
                             </p>
 
                         </div>
@@ -643,9 +609,9 @@
                                 <li><i class="fa fa-check"></i>Store d'applications</li>
                                 <li><i class="fa fa-check"></i>Modules personnalisés</li>
                                 <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
-                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
                                 <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
-                                <li class="last"><i class="fa fa-check"></i>Accès au cloud (5Go)</li>
+                                <li><i class="fa fa-check"></i>Controle vocal</li>
+                                <li><i class="fa fa-close"></i>Controle à distance sans toucher le miroir</li>
                             </ul>
 
                             <!-- <a href="#" class="btn-price">Get Started</a> -->
@@ -670,8 +636,8 @@
                             <p class="price">
 
                                 <span class="currency">€</span>
-                                <span class="number">699,90</span>
-                                <span class="period">300x60cm</span>
+                                <span class="number">799,90</span>
+                                <span class="period">65x35cm</span>
                             </p>
 
                         </div>
@@ -683,9 +649,9 @@
                                 <li><i class="fa fa-check"></i>Store d'applications</li>
                                 <li><i class="fa fa-check"></i>Modules personnalisés</li>
                                 <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
-                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
                                 <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
-                                <li class="last"><i class="fa fa-check"></i>Accès au cloud (20Go)</li>
+                                <li><i class="fa fa-check"></i>Controle vocal</li>
+                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
                             </ul>
 
                             <!-- <a href="#" class="btn-price">Get Started</a> -->
@@ -696,9 +662,6 @@
 
 
                 </div>
-                <small class="text-muted"><sup>*</sup> L'offre communauté ne comprend aucun élément physique, il propose
-                    uniquement un OS (système d'exploitation) téléchargeable.
-                </small>
                 <!--end col md 4 -->
 
             </div>
