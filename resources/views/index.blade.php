@@ -23,7 +23,7 @@
                     <!--logo -->
                     <a href="index.html" class="navbar-brand" id="logo">
                         <h1>
-                            <i class="material-icons" style="vertical-align: middle">wb_sunny</i>
+                            <img src="/images/elios.png" alt="logo">
                             Elios
                         </h1>
                     </a>
@@ -631,7 +631,7 @@
 
                         <div class="price-top">
 
-                            <h4>Grand</h4>
+                            <h4>Premium</h4>
 
                             <p class="price">
 
