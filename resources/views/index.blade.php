@@ -69,7 +69,7 @@
 
                         <h1>Elios Mirror</h1>
 
-                        <h2>Un miroir à votre image</h2>
+                        <h2>Le miroir à votre image</h2>
 
                     </div>
 
