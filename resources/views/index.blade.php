@@ -35,7 +35,7 @@
                         <li><a href="#home_wrapper">Accueil</a></li>
                         <li><a href="#about">À propos</a></li>
                         <li><a href="#features">Fonctionnalités</a></li>
-                        {{--<li><a href="#gallery">Gallerie</a></li>--}}
+                        {{--<li><a href="#gallery">Galerie</a></li>--}}
                         <li><a href="#pricing">Offres</a></li>
                         {{--<li><a href="#contact">Contact</a></li>--}}
                     </ul>
@@ -111,7 +111,7 @@
 
                         <h3>à propos</h3>
 
-                        <p>Elios Mirror est un miroir connecté vous facilitant la vie au quotidien. Il propose une
+                        <p>Elios Mirror est un miroir connecté vous facilitant la vie au quotidien et proposant une
                             infinité de fonctionnalités.</p>
 
                         <div class="luna-aboutbox">
@@ -122,9 +122,9 @@
 
                                 <h4>Sobre et Design</h4>
 
-                                <p>Elios Mirror est un mirroir pensé pour s'intégrer parfaitement dans votre
+                                <p>Elios Mirror est un miroir pensé pour s'intégrer parfaitement dans votre
                                     habitation. Par son verre sans tain de qualité et son cadre, il ne passera pas
-                                    innaperçu.</p>
+                                    inaperçu.</p>
 
                             </div>
 
@@ -140,7 +140,7 @@
 
                                 <p>Modifiez et re-modifiez votre miroir à votre gout. Une interface simple vous
                                     permettra de personnaliser entièrement votre miroir pour qu'il soit unique et selon
-                                    vos gouts.</p>
+                                    vos goûts.</p>
 
                             </div>
 
@@ -154,9 +154,8 @@
 
                                 <h4>Sécurisé</h4>
 
-                                <p>Elios Mirror est étanche, il pourra donc parfaitement s'intégrer dans votre salle
-                                    de bain. Il est également sécurisé informatiquement, toutes les données qui
-                                    transites sont chiffrés.</p>
+                                <p>Elios Mirror est sécurisé informatiquement, toutes les données qui
+                                    transites étant chiffrées.</p>
 
                             </div>
 
@@ -201,7 +200,7 @@
 
                         <h3>Les fonctionnalités</h3>
 
-                        <p>Elios Mirror intègre de nombreuses fonctionnalités vous permettant de l'intégrer parfaitement
+                        <p>Elios Mirror possède de nombreuses fonctionnalités vous permettant de l'intégrer parfaitement
                             dans votre quotidien.<br></p>
 
                     </div>
@@ -226,7 +225,7 @@
 
                             <h3>Design Moderne</h3>
 
-                            <p>Avec son verre sans tain et un écran de haute qualité il ne passera pas innaperçu chez
+                            <p>Avec son verre sans tain et un écran de haute qualité il ne passera pas inaperçu chez
                                 vous.</p>
 
                         </div>
@@ -247,7 +246,7 @@
 
                             <h3>Personnalisable</h3>
 
-                            <p>Une interface entièrement personnalisable selon vos gouts pour s'intégrer parfaitement
+                            <p>Une interface entièrement personnalisable selon vos goûts pour s'intégrer parfaitement
                                 chez vous.</p>
 
                         </div>
@@ -268,7 +267,7 @@
 
                             <h3>User Friendly</h3>
 
-                            <p>Une interface simple d'utilisation pour accèder à l'essentiel des informations.</p>
+                            <p>Une interface simple d'utilisation pour accéder à l'essentiel des informations.</p>
 
                         </div>
 
@@ -288,7 +287,7 @@
 
                             <h3>Cloud</h3>
 
-                            <p>Un cloud sécurisé pour enregistrer toutes vos préférences, vos image, vidéos et bien plus
+                            <p>Un cloud sécurisé pour enregistrer toutes vos préférences, vos images, vidéos et bien plus
                                 encore.</p>
 
                         </div>
@@ -329,7 +328,7 @@
 
                             <h3>Store d'applications</h3>
 
-                            <p>Accédez à vos applications préféré depuis votre miroir. Installez en de nouvelles
+                            <p>Accédez à vos applications préférées depuis votre miroir. Installez en de nouvelles
                                 permettant d'utiliser les fonctionnalités du miroir.</p>
 
                         </div>
@@ -348,9 +347,9 @@
 
                         <div class="luna-featbox3-text">
 
-                            <h3>Ecologique</h3>
+                            <h3>Écologique</h3>
 
-                            <p>Elios mirror consomme très peu d'énergie, moins de 50 watt par heures.</p>
+                            <p>Elios Mirror consomme très peu d'énergie, moins de 50 watts par heure.</p>
 
                         </div>
 
@@ -370,8 +369,8 @@
 
                             <h3>Controlable à Distance</h3>
 
-                            <p>Controllable sans toucher le miroir grace au leap motion mais aussi controllable depuis
-                                votre téléphone et votre navigateur.</p>
+                            <p>Contrôlable sans toucher le miroir grace à l'application mobile Elios Mirror
+                                disponible sur android et iOs.</p>
 
                         </div>
 
@@ -391,7 +390,7 @@
 
                             <h3>Sécurisé</h3>
 
-                            <p>Toutes vos données sont chiffrés localement mais également lorsqu'un tranfert s'effectue vers le cloud (AES-256).</p>
+                            <p>Toutes vos données sont chiffrées localement mais également lorsqu'un tranfert s'effectue vers le cloud (AES-256).</p>
 
                         </div>
 
@@ -591,13 +590,12 @@
 
                         <div class="price-top">
 
-                            <h4>Normal</h4>
+                            <h4>License standard</h4>
 
                             <p class="price">
 
                                 <span class="currency">€</span>
-                                <span class="number">499,90</span>
-                                <span class="period">65x35cm</span>
+                                <span class="number">90</span>
                             </p>
 
                         </div>
@@ -608,10 +606,8 @@
                                 <li><i class="fa fa-check"></i>Interface personnalisable</li>
                                 <li><i class="fa fa-check"></i>Store d'applications</li>
                                 <li><i class="fa fa-check"></i>Modules personnalisés</li>
-                                <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
-                                <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
-                                <li><i class="fa fa-check"></i>Controle vocal</li>
-                                <li><i class="fa fa-close"></i>Controle à distance sans toucher le miroir</li>
+                                <li><i class="fa fa-check"></i>Application mobile gratuite</li>
+                                <li><i class="fa fa-check"></i>Interface web</li>
                             </ul>
 
                             <!-- <a href="#" class="btn-price">Get Started</a> -->
@@ -631,13 +627,12 @@
 
                         <div class="price-top">
 
-                            <h4>Premium</h4>
+                            <h4>License business</h4>
 
                             <p class="price">
 
                                 <span class="currency">€</span>
-                                <span class="number">799,90</span>
-                                <span class="period">65x35cm</span>
+                                <span class="number">45</span>
                             </p>
 
                         </div>
@@ -648,10 +643,8 @@
                                 <li><i class="fa fa-check"></i>Interface personnalisable</li>
                                 <li><i class="fa fa-check"></i>Store d'applications</li>
                                 <li><i class="fa fa-check"></i>Modules personnalisés</li>
-                                <li><i class="fa fa-check"></i>Verre sans tain haute qualité</li>
-                                <li><i class="fa fa-check"></i>Controle téléphone & interface web</li>
-                                <li><i class="fa fa-check"></i>Controle vocal</li>
-                                <li><i class="fa fa-check"></i>Controle à distance sans toucher le miroir</li>
+                                <li><i class="fa fa-check"></i>Application mobile gratuite</li>
+                                <li><i class="fa fa-check"></i>Interface web</li>
                             </ul>
 
                             <!-- <a href="#" class="btn-price">Get Started</a> -->
